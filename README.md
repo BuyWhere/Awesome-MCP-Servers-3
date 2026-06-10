@@ -295,6 +295,7 @@ Web fetching, scraping, and search.
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
 - Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Real-time product search, price comparison, and deal discovery across thousands of merchants for AI agents. Published as @buywhere/mcp-server.
 - Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 - Kagi Search — https://github.com/ac3xx/mcp-servers-kagi
 - Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server
